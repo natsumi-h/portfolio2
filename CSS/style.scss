@@ -329,7 +329,7 @@ nav{
 
 //top//
 .top{
-  background: url(/img/mv@2x.png) no-repeat center center / cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/mv@2x.png) no-repeat center center / cover;
   height: 648px;
   padding: 0 40px;
   position: relative;
@@ -337,7 +337,7 @@ nav{
   padding-top: 83px;
 
   @include mq(sp) {
-    background: url(/img/mv.png) no-repeat left center / cover;
+    background: url(https://natsumi-h.github.io/portfolio2/img/mv.png) no-repeat left center / cover;
     height: 667px;
     padding: 0 16px;
    }
@@ -468,7 +468,7 @@ nav{
   &:after{
     position: absolute;
     content: "";
-    background: url(/img/news-arrow-1.svg) no-repeat center / cover;
+    background: url(https://natsumi-h.github.io/portfolio2/img/news-arrow-1.svg) no-repeat center / cover;
     top: 50%;
     transform: translateY(-50%);
     right: 0;
@@ -970,7 +970,7 @@ table{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/img/qa-bg@2x.png);
+  background-image: url(https://natsumi-h.github.io/portfolio2/img/qa-bg@2x.png);
 
 }
 
@@ -1192,7 +1192,7 @@ table{
 
 //contactus//
 .contactus{
-  background: url(/img/contact-bg@2x.png) no-repeat center center / cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/contact-bg@2x.png) no-repeat center center / cover;
   width: 100%;
   padding: 60px 12.5%;
   @include mq(sp) {
@@ -1209,14 +1209,14 @@ table{
 }
 
 .contact-title{
-  background: url(/img/contact1.png) no-repeat center center / cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/contact1.png) no-repeat center center / cover;
   color: white;
   text-align: center;
   padding: 60px 24%;
 
   @include mq(sp) {
     padding: 40px 16px;
-    background: url(/img/contact1.png) no-repeat center center / cover;
+    background: url(https://natsumi-h.github.io/portfolio2/img/contact1.png) no-repeat center center / cover;
   }
   
 }
