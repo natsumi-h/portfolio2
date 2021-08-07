@@ -277,7 +277,7 @@ header {
 }
 
 .top {
-  background: url(/img/mv@2x.png) no-repeat center center/cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/mv@2x.png) no-repeat center center/cover;
   height: 648px;
   padding: 0 40px;
   position: relative;
@@ -287,7 +287,7 @@ header {
 
 @media (max-width: 767px) {
   .top {
-    background: url(/img/mv.png) no-repeat left center/cover;
+    background: url(https://natsumi-h.github.io/portfolio2/img/mv.png) no-repeat left center/cover;
     height: 667px;
     padding: 0 16px;
   }
@@ -426,7 +426,7 @@ header {
 .news-item-link:after {
   position: absolute;
   content: "";
-  background: url(/img/news-arrow-1.svg) no-repeat center/cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/news-arrow-1.svg) no-repeat center/cover;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -952,7 +952,7 @@ table {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/img/qa-bg@2x.png);
+  background-image: url(https://natsumi-h.github.io/portfolio2/img/qa-bg@2x.png);
 }
 
 .qanda-inner {
@@ -1174,7 +1174,7 @@ table {
 }
 
 .contactus {
-  background: url(/img/contact-bg@2x.png) no-repeat center center/cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/contact-bg@2x.png) no-repeat center center/cover;
   width: 100%;
   padding: 60px 12.5%;
 }
@@ -1192,7 +1192,7 @@ table {
 }
 
 .contact-title {
-  background: url(/img/contact1.png) no-repeat center center/cover;
+  background: url(https://natsumi-h.github.io/portfolio2/img/contact1.png) no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 60px 24%;
@@ -1201,7 +1201,7 @@ table {
 @media (max-width: 767px) {
   .contact-title {
     padding: 40px 16px;
-    background: url(/img/contact1.png) no-repeat center center/cover;
+    background: url(https://natsumi-h.github.io/portfolio2/img/contact1.png) no-repeat center center/cover;
   }
 }
 
