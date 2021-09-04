@@ -252,6 +252,8 @@ header.open .hamburger-bar3 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.05em;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
 }
 
 @media (max-width: 767px) {
@@ -268,7 +270,6 @@ header.open .hamburger-bar3 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-right: 13px;
 }
 
 @media (max-width: 767px) {
@@ -285,6 +286,7 @@ header.open .hamburger-bar3 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin-left: auto;
 }
 
 @media (max-width: 767px) {
@@ -338,7 +340,7 @@ header.open .hamburger-bar3 {
 }
 
 .header-nav-item:not(:first-child) {
-  margin-left: 16px;
+  margin-left: 1.6rem;
 }
 
 @media (max-width: 767px) {
@@ -412,9 +414,12 @@ header.open .hamburger-bar3 {
 }
 
 .header-button-trial {
-  margin-left: 14px;
+  margin-left: 1.4rem;
+  margin-right: 1.3rem;
   text-align: center;
   border: none;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
 }
 
 @media (max-width: 767px) {
